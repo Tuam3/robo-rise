@@ -1,0 +1,19 @@
+# Build output
+out/
+bin/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local game data
+highscores.txt
+
+# Engine library (not redistributed — see README)
+lib/*.jar
